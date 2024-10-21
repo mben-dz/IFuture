@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.514,D:\2027\IFuture\API\Res\ResPicture.dat=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.654,=D:\2027\IFuture\API\Res\ResPicture.dat</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.133,=D:\2027\IFuture\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.862,=D:\2025\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.150,=D:\2025\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.733,=D:\2025\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.205,D:\2027\IFuture\Unit1.pas=D:\2027\IFuture\API\Res\API.ResData.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.330,D:\2027\IFuture\Unit1.pas=D:\2027\IFuture\API\API.Future.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.456,D:\2027\IFuture\Unit1.pas=D:\2027\IFuture\API\API.Utils.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.764,=D:\2027\IFuture\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.915,=D:\2027\IFuture\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.416,=D:\2027\IFuture\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.994,D:\2025\Projects\Unit1.dfm=D:\2027\IFuture\Main.View.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.273,=D:\2025\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.980,=D:\2025\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.060,D:\2025\Projects\Project1.dproj=D:\2027\IFuture\IFutureDemo.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.810,=D:\2027\IFuture\New1.txt</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.291,D:\2027\IFuture\New1.txt=D:\2027\IFuture\API\Res\ResPicture.txt</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.994,D:\2025\Projects\Unit1.pas=D:\2027\IFuture\Main.View.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.560,=D:\2025\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.712,=D:\2025\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.553,=D:\2025\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.521,=D:\2025\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.105,=D:\2025\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
